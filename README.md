@@ -3,15 +3,29 @@ Ardino
 
 ### shane tully
 
-TODO: description
+Ardino is a simply Arduino project with one goal: scaring anyone foolish enough to get too close to the dinosaur cutout. See the demo video.
+
+[TODO: add demo video]
 
 ## Parts
 
-* TODO
+* [Arduino Pro Mini 5V](https://www.sparkfun.com/products/11113)
+* [Sparkfun Femtobuck LED driver](https://www.sparkfun.com/products/13716)
+* [3W LED](https://www.sparkfun.com/products/13106)
+* [Adafruit MAX98306](https://www.adafruit.com/product/987)
+* [4 Ohm 3W speakers](https://www.adafruit.com/products/1314)
+* SainSmart HC-SR04
+* [5V voltage regulator](https://www.sparkfun.com/products/107)
+* [2pin terminal block](https://www.adafruit.com/products/2234)
+* [Protoboard](https://www.adafruit.com/products/1609)
+* [9V 1A power supply](https://www.adafruit.com/products/63)
+* [2.1mm barrel jack](https://www.adafruit.com/products/373)
+* [LED heatsink (optional)](http://www.mouser.com/ProductDetail/Ohmite/SA-LED-113E/?qs=Hl8Stj2mr8Sm%252bk8Rtuf2wg%3D%3D)
+* [Voltage regulator heatsink (optional)](https://www.sparkfun.com/products/121)
 
 ## Installation
 
-TODO: Add wiring diagram
+![wiring diagram](/wiring.png?raw=true)
 
 Once everything is wired up, load the sketch on the Arduino like any other sketch.
 
