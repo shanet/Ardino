@@ -3,9 +3,13 @@ Ardino
 
 ### shane tully
 
-Ardino is a simply Arduino project with one goal: scaring anyone foolish enough to get too close to the dinosaur cutout. See the demo video.
+Ardino is a simply Arduino project with one goal: scaring anyone foolish enough to get too close to the dinosaur cutout.
 
-[TODO: add demo video]
+![](/images/ardino.jpg?raw=true)
+
+## Demo
+
+https://www.youtube.com/watch?v=UqQlajhojFQ
 
 ## Parts
 
@@ -25,7 +29,7 @@ Ardino is a simply Arduino project with one goal: scaring anyone foolish enough 
 
 ## Installation
 
-![wiring diagram](/wiring.png?raw=true)
+![wiring diagram](/images/wiring.png?raw=true)
 
 Once everything is wired up, load the sketch on the Arduino like any other sketch.
 
